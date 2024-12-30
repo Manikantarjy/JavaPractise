@@ -1,0 +1,22 @@
+Arrays concept and imp examples
+
+Ex 1: Search an element in array(linear search)
+Ex 2: Find number of repetitions
+Ex 3: sorting
+Ex 4: print array elements in reverse order
+Ex 5: reading data in to array
+
+
+Assignments
+-----------
+1) Sorting elements using for loop
+a={50,20,40,10,100}
+after sorting 10 20 40 50 100
+
+
+2) Find Missing Number in array
+a={1,4,5,3}
+* numbers should be in range
+* should not have duplicates
+
+
